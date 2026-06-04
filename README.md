@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ### Databases
 - MySQL
 - Microsoft SQL Server
-- MarkLogic
-- PL/SQL (starting)
+- MarkLogic Server
+- PL/SQL
 
 ### Libraries
 - React (starting)
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - AWS SQS
 - AWS S3
 - Docker
+- Grafana (Loki, Prometheus, Mimir)
 
 ### Some stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
