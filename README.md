@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - XQuery
 
 ### Frameworks
-- Spring
+- Spring Boot
 - Laravel
 - Django
 - Struts2
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - PL/SQL
 
 ### Libraries
-- React (starting)
+- React
 - Playwright Test
 - JUnit
 
