@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ### About Me
 
 - 🇺🇸 Mid Software Engineer at Oracle Philippines 🇵🇭
-- 🍵 Enjoys matcha.
-- ☕️ Quit coffee on account of an acid reflux episode.
+- 🫖 Enjoys tea.
 - 🧑🏻‍💻 Full stack developer.
 - 🚢 Practicing containerization.
 - ☁️ Currently working for AWS/Oracle certifications.
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 - ❔ No Facebook account in any shape or form. No Instagram either.
 
 ### Current Tools and Technologies
-- Java 8 / 11 / 17 / 25 (starting)
+- Java 8 / 11 / 17 / 25
 - Groovy
 - HTML5
 - CSS
@@ -62,7 +61,7 @@ Here are some ideas to get you started:
 - Grafana (Loki, Prometheus, Mimir)
 
 ### Some stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=california96&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bnovasync&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bnovasync&count_private=true&include_all_commits=true&theme=radical&hide=html" />
 </a>
